@@ -1,0 +1,6 @@
+Database:
+  user: "root"
+  password: ""
+  ip: "localhost"
+
+Slot: 18

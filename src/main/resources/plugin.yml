@@ -1,0 +1,9 @@
+name: BackPack
+version: '${project.version}'
+main: it.plugincraft.backpack.BackPack
+api-version: '1.20'
+commands:
+  pv:
+    description: "Use for open pv"
+    usage: "/pv [number]"
+    aliases: [ backpack ]
